@@ -1,4 +1,5 @@
 ### 사용자 토큰으로 유저 정보 검증하는 방법입니다.
+참조 : https://developers.facebook.com/docs/graph-api/reference/v2.9/debug_token/
 
 ```
 define('facebook_app_id', '****************');
